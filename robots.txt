@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Wizard-32.github.io/sitemap.xml
+Sitemap: https://adityakhurmi.github.io/sitemap.xml
